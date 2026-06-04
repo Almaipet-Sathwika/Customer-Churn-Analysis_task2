@@ -1,0 +1,22 @@
+id,name,email,tenure_days,login_frequency,support_contacts,feature_breaks_encountered,days_since_last_login,status
+101,John Doe,john.doe@example.com,365,30,1,0,2,Active
+102, Jane Smith ,JANE.SMITH@EXAMPLE.COM, 120 ,2,8,4,15,Churned
+103,Alice Johnson,alice@johnson.com,450,25,2,1,4,Active
+103,Alice Johnson,alice@johnson.com,450,25,2,1,4,Active
+105,Bob Miller,bob@example.net,30,1,5,3,20,Churned
+106,Charlie Davis,charlie.d@example.org,15,0,12,5,14,Churned
+107,Emma Wilson,emma.w@example.com,600,28,0,0,1,Active
+108,Frank Thomas,frank@example,720,22,1,0,3,Active
+109,,grace@example.com,180,15,3,1,7,Active
+110,Grace Taylor,grace.t@example.com,N/A,10,4,2,5,Active
+111,Henry Anderson,henry@example.com,90,5,7,5,16,Churned
+112,Ivy Thomas,ivy.t@example.com,12,0,10,4,14,Churned
+113,Jack Martin,jack.m@example.org,500,26,2,1,3,Active
+114,Kelly White,kelly.w@example.com,240,18,3,0,6,Active
+115,Leo Harris,leo.h@example.com,80,4,6,3,18,Churned
+116,Mia Clark,mia.c@example.com,10,0,14,5,10,Churned
+117,Noah Lewis,noah.l@example.com,400,20,1,0,5,Active
+118,Olivia Walker,olivia.w@example.com,300,24,2,1,2,Active
+119,Paul Allen,paul.a@example,50,2,5,4,17,Churned
+120,Ryan Young,ryan@example.com,150,12,4,2,6,Active
+101,John Doe,john.doe@example.com,365,30,1,0,2,Active
