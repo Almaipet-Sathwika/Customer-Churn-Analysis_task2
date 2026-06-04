@@ -1,0 +1,7 @@
+row_index,error
+6,"1 validation error for CustomerChurnRecord
+email
+  value is not a valid email address: The part after the @-sign is not valid. It should have a period. [type=value_error, input_value='frank@example', input_type=str]"
+17,"1 validation error for CustomerChurnRecord
+email
+  value is not a valid email address: The part after the @-sign is not valid. It should have a period. [type=value_error, input_value='paul.a@example', input_type=str]"
